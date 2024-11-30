@@ -1,0 +1,5 @@
+Поле,Тип,Пример
+id,INT,1
+place_id,INT,1
+visit_date,DATE,2024-06-15
+visitors,INT,500
