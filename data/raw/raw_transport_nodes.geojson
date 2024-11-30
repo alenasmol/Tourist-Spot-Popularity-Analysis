@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Шарль-де-Голль",
+        "type": "Аэропорт"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.55, 49.012]
+      }
+    }
+  ]
+}
