@@ -1,0 +1,5 @@
+Поле,Тип,Пример
+id,INT,1
+name,TEXT,"Лувр"
+category,TEXT,"Музей"
+geom,TEXT,"POINT(2.3376 48.8606)"
